@@ -1,6 +1,6 @@
 # Social-APE Front-end
 
-Front-end for a social app built on React
+Social-APE is a social media platform build on react with backend on Firebase. It allows the user to sign up on the platform and like,comment or post updates. You also have the functionality to edit your profile.
 
 ## Installation
 
