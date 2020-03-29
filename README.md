@@ -17,7 +17,7 @@ npm start
 The website will be run via localhost. It can then be viewed in your preferred browser.
 ## Usage
 
-Hosted on [heroku](https://dscrit.herokuapp.com/). 
+Hosted on [firebase](https://social-ape-53553.firebaseapp.com/). 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
